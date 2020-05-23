@@ -1,0 +1,61 @@
+/* CSS files add styling rules to your content */
+
+#title {
+  background-color: #1F2833;
+  color: #45A29E;
+  text-align: center;
+}
+
+.shoe {
+  margin: 50px;
+  background-color: #0B0C10;
+  width: 95%;
+  height: 800px;
+}
+
+.shoe2{
+  margin: 50px;
+  background-color: #1F2833;
+  width: 95%;
+  height: 800px;
+  
+}
+.shoe p, .shoe2 p{
+  color: #C5C6C7;
+  font-size: large;
+}
+
+.shoe img , .shoe2 img{
+  float: right;
+  width: 40%;
+  height: 70%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#img1 {
+  float: right;
+  width: 20%;
+  height: 35%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#img2 {
+  float:right;
+  width: 20%;
+  height: 35%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+h2{
+  color: #66FCF1;
+  text-align: center;
+ 
+}
+
+.shoe h5, .shoe2 h5{
+  color: #45A29E;
+  font-size: large;
+}
